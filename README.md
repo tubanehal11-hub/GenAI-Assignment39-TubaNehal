@@ -1,4 +1,3 @@
-
 ---
 title: GenAI Assignment 39 - GenAI App Deployment
 emoji: 🚀
